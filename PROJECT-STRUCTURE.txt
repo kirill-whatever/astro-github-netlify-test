@@ -1,0 +1,21 @@
+astro-github-netlify-test/
+├── .gitignore
+├── .nvmrc
+├── astro.config.mjs
+├── netlify.toml
+├── package.json
+├── README.md
+├── tsconfig.json
+├── public/
+│   └── family-photo.jpg
+└── src/
+    ├── components/
+    │   └── Nav.astro
+    ├── layouts/
+    │   └── BaseLayout.astro
+    ├── pages/
+    │   ├── index.astro
+    │   ├── picture.astro
+    │   └── goodbye.astro
+    └── styles/
+        └── global.css
